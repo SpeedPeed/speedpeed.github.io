@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.speedpeed.bierlocator",
+        "sha256_cert_fingerprints": ["B3:4B:2D:6A:39:27:41:9A:6F:AA:E8:66:09:87:66:98:CF:BA:F1:A8:0C:F6:66:76:90:3D:F9:98:D2:B8:B0:1F"]
+      }
+    }]
